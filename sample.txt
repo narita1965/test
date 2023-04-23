@@ -1,1 +1,2 @@
-sample test for git operations
+sample text for git operations
+・add for branch 5.
